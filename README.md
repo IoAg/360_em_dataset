@@ -1,4 +1,4 @@
-**For accessing the data set please refere to [this](https://web.gin.g-node.org/ioannis.agtzidis/360_em_dataset) directory.**
+**For accessing the data set please refer to [this](https://web.gin.g-node.org/ioannis.agtzidis/360_em_dataset) repository.**
 
 Here we provide 15 360-degree equirectangular videos, togeher with eye tracking
 recordings of 13 subjects and a manually labelled ground-truth subset of all
